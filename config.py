@@ -6,7 +6,7 @@ investor_specific_prompts = {
             "Strengthen GOP presence in Manhattan within 2 years."
         ],
         "tasks": [
-            "Organize monthly GOP community events in Manhattan.."
+            "Organize monthly GOP community events in Manhattan."
         ]
     },
     "InvestorB": {
